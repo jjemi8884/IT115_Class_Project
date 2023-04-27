@@ -2,7 +2,7 @@
 ## Class project-Assitnment #4
 _Author Justin J_
 
-### THis is the Read Me file.
+### This is the Read Me file.
 
 ## INSTALLATION:
 This is a HTML page that you can use with any web browser that you like. Copy the address of the main file and past it into your web brouser.
