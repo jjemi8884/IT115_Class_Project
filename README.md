@@ -5,7 +5,7 @@ _Author Justin J_
 ### This is the Read Me file.
 
 ## INSTALLATION:
-This is a HTML page that you can use with any web browser that you like. Copy the address of the main file and past it into your web brouser.
+This is a HTML page that you can use with any web browser that you like. Copy the address of the main file and past it into your web browser with a "/" at the end.
 
 ## Usage:
 There are no uses for this webpage. 
