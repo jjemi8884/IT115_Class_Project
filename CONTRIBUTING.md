@@ -9,5 +9,10 @@ Project consumers - users who want to build off the project to create their own 
 
 ## Instructions
 1. To contrubute to this repository you are free to work within your own "HTML" page on the main branch. 
-2. If you alter the title/index pages, please create a seperate branch and submit a pull request to allow atleast on other person to verify the work.
-3. To change pictures, use the a seperate branch and pull request.
+2. If you alter the title/index pages, please create a seperate branch and submit a pull request to allow at least on other person to verify the work.
+3. To change pictures, use a seperate branch and pull request.
+
+## How to report a bug
+1. If a webpage doesn't load up properly, do not try to change and fix the code directly by yourself. 
+2. First and foremost, inform it to all group members. Once the bug is discovered, write in detail (what the problem is and how the expected results is supposed to be)
+3. For resolution: create a seperate branch, identify the bug, fix the bug and you must do this through a pull request.
